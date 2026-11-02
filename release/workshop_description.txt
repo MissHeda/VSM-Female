@@ -1,0 +1,16 @@
+[img]https://raw.githubusercontent.com/MissHeda/VSM-Female/main/.github/workshop/hero.png[/img]
+
+[b]VSM is the main mod. This is only an add-on for it.[/b]
+Requires the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=823636749]VSM All-In-One Collection[/url] on the server and every client. All credit for the original gear goes to the VSM team.
+
+VSM Female refits the VSM vests and uniforms to a female body: 206 vests and 361 uniforms, in every camo, with the same stats. The male items stay untouched. Female items are named like the original with (Female) at the end.
+
+Optional: with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2522638637]ACE3 Arsenal Extended[/url], an item and its female version share one entry with a Male / Female switch.
+
+[b]Credit[/b]
+VSM by VSM, VanSchmoozin, Roadrunner, Spectre, Zeealex, Jarrad96, CrazyCorky, Bacon and Ghost. Uniform models are based on Arma 3 by Bohemia Interactive. Vest models changed with the permission of the VSM author.
+
+[b]License[/b]
+[url=https://www.bohemia.net/community/licenses/arma-public-license-share-alike]Arma Public License Share Alike (APL-SA)[/url], same as the VSM retextures.
+
+[url=https://discord.gg/Jud6gyzFYx]Discord[/url] | [url=https://github.com/MissHeda/VSM-Female]GitHub[/url] | [url=https://ko-fi.com/missheda]Ko-fi[/url]
