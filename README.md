@@ -12,7 +12,7 @@ Works with [ACE3 Arsenal Extended](https://steamcommunity.com/sharedfiles/filede
 
 ## Credit
 
-VSM by VSM, VanSchmoozin, Roadrunner, Spectre, Zeealex, Jarrad96, CrazyCorky, Bacon and Ghost. Uniform models are based on Arma 3 by Bohemia Interactive. Vest models changed with the permission of the VSM author.
+VSM by VSM, VanSchmoozin, Roadrunner, Spectre, Zeealex, Jarrad96, CrazyCorky, Bacon and Ghost. Uniform models are based on Arma 3 by Bohemia Interactive.
 
 ## License
 
