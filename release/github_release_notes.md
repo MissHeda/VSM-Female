@@ -1,23 +1,22 @@
-# VSM Female - 1.0 is out!
+# VSM Female - 1.0.4 is out!
 
-The VSM vests and uniforms, refitted to a female body. **VSM is the main mod, this is only an add-on for it.**
+:exclamation: Remember to repair your mod :exclamation:
 
 **What's new**
-- **206 vests** - LBT 6094, FAPC, RAV, carrier rigs, MBSS and more
-- **361 uniforms** - Crye G3, Battle Dress and the rest of the VSM range
-- **Every camo, same stats** - the male items stay untouched
-- **ACE3 Arsenal Extended support** - optional Male / Female switch on one entry
+- **Plays nice with ACE Arsenal Extended** - male and female gear no longer collapse into one arsenal entry, so the original VSM items show up again next to the female ones
+- **No more fights with ACEAX compat mods** - VSM Female stopped touching the arsenal grouping of the original VSM items, so load order does not matter anymore
+
+Your loadouts and class names stay the same.
 
 All credit for the original gear goes to the VSM team: VSM, VanSchmoozin, Roadrunner, Spectre, Zeealex, Jarrad96, CrazyCorky, Bacon and Ghost :blue_heart:
 
-Uniform models are based on Arma 3 by Bohemia Interactive. Vest models changed with the permission of the VSM author. License: APL-SA, same as the VSM retextures.
+Requires the [VSM All-In-One Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=823636749), or [VSM Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=1452762519) and/or [VSM Vests and Helmets](https://steamcommunity.com/sharedfiles/filedetails/?id=1456022305), on the server and every client.
 
-Requires the [VSM All-In-One Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=823636749) on the server and every client.
-
-:package: **Download:** https://github.com/MissHeda/VSM-Female/releases/download/v1.0/vsm_female-1.0.zip
+:package: **Download:** https://github.com/MissHeda/VSM-Female/releases/download/v1.0.4/vsm_female-1.0.4.zip
+:link: **Steam Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=3832542149
 :link: **Discord:** https://discord.gg/Jud6gyzFYx
 
 Found a bug or have an idea? Drop it in #help :speech_balloon:
 
-:coffee: **Support your local modder!** Dressing 567 items for a new body is a lot of work, and it's all free. A coffee would look great on you too :eyes:
+:coffee: **Support your local modder!** Your arsenal is tidy again, for free. The least you can do is keep my coffee cup from looking this empty :eyes:
 https://ko-fi.com/missheda
