@@ -6,9 +6,9 @@ Female vests and uniforms for VSM. **VSM is the main mod, this is only an add-on
 
 ## Requires
 
-[VSM All-In-One Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=823636749) on the server and every client.
+[VSM All-In-One Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=823636749) for all 567 items, or [VSM Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=1452762519) and/or [VSM Vests and Helmets](https://steamcommunity.com/sharedfiles/filedetails/?id=1456022305) for their 453 items, on the server and every client.
 
-Optional: [ACE3 Arsenal Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2522638637) for a Male / Female switch on one Arsenal entry.
+Works with [ACE3 Arsenal Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2522638637) and its compat mods (not required): female items get their own Arsenal entries next to the originals.
 
 ## Credit
 

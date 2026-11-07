@@ -2,11 +2,15 @@
 
 :exclamation: Remember to repair your mod :exclamation:
 
+ACE3 Arsenal Extended and VSM Female get along now. Male and female gear sit side by side in the Arsenal again.
+
 **What's new**
-- **Plays nice with ACE Arsenal Extended** - male and female gear no longer collapse into one arsenal entry, so the original VSM items show up again next to the female ones
-- **No more fights with ACEAX compat mods** - VSM Female stopped touching the arsenal grouping of the original VSM items, so load order does not matter anymore
+- **Your Arsenal is complete again** - with ACE3 Arsenal Extended loaded, the original VSM items were hidden behind the female ones. Now both show up as their own entries
+- **Works with ACEAX compat mods** - no more clashes, no matter the load order
 
 Your loadouts and class names stay the same.
+
+Thanks Milspec Puppygirl for the report! :blue_heart:
 
 All credit for the original gear goes to the VSM team: VSM, VanSchmoozin, Roadrunner, Spectre, Zeealex, Jarrad96, CrazyCorky, Bacon and Ghost :blue_heart:
 
