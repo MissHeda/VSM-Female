@@ -10,7 +10,7 @@ VSM Female refits the VSM vests and uniforms to a female body, in every camo and
 [*][b]206 vests[/b] - LBT 6094, FAPC, RAV, carrier rigs, MBSS and more.
 [*][b]361 uniforms[/b] - Crye G3, Battle Dress and the rest of the VSM range.
 [*][b]Every camo, same stats[/b] - textures and armour come straight from VSM.
-[*][b]Gender switch in ACE3 Arsenal Extended[/b] - one Arsenal entry per item, the "Gender" option swaps between the original and the female version. Without ACEAX, female items are their own Arsenal entries.
+[*][b]Works with ACE3 Arsenal Extended[/b] - female items get their own Arsenal entries, right next to the originals.
 [/list]
 
 [img]https://raw.githubusercontent.com/MissHeda/VSM-Female/main/.github/workshop/info.png[/img]
